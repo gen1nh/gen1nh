@@ -84,9 +84,3 @@ Menu lateral com botão hambúrguer animado (que vira "X"), com SVG animado e re
     <img src="https://img.shields.io/badge/Email-geninho@email.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <b>"Design sem código é arte. Código sem design é dor. Quero viver onde os dois se encontram."</b>
-</p>
