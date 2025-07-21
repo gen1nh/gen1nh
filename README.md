@@ -11,7 +11,7 @@
 UI/UX Designer atuando na Maratá (JAV), com foco em criar interfaces modernas, acessíveis e funcionais.  
 Atualmente migrando para o desenvolvimento front-end, estudando tecnologias que complementam meu conhecimento em design.
 
-Estudando código todos os dias. Construindo meu portfólio com +1000 linhas. Buscando crescer como profissional completo – design + dev.
+Estudando código todos os dias. Construindo meu portfólio. Buscando crescer como profissional completo – design + dev.
 
 ---
 
