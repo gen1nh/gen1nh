@@ -20,24 +20,20 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou UI/UX Designer na Maratá (JAV), com foco em interfaces acessíveis, modernas e funcionais.  
-Atualmente, estou em transição para o front-end, estudando diariamente para unir design e desenvolvimento de forma completa.
+Sou Designer de Interfaces (UI/UX) na Maratá (JAV), com foco em criar experiências intuitivas, acessíveis e modernas.  
+Atualmente em transição para a área de desenvolvimento front-end, estou construindo soluções que combinam design e código.
 
-> Construindo um portfólio profissional com foco em responsividade, boas práticas e performance.
+> Estudo programação todos os dias e estou desenvolvendo um portfólio profissional que reflita minha visão estética, técnica e estratégica.
 
 ---
 
 ### 🚀 Projetos em Andamento
 
-**Portfólio Profissional**  
-Site 100% responsivo, com foco em tipografia, acessibilidade, boas práticas e design consistente.  
-> Tecnologias: HTML, CSS, JavaScript, TailwindCSS, Figma
-
-**Projeto Android v2**  
-Interface baseada em layouts do sistema Android, com foco em Flexbox e boas práticas de CSS.
-
-**Menu Animado com SVG Parallax**  
-Menu lateral com botão hambúrguer animado (que vira "X") e SVG com efeito parallax. Mobile-first.
+| Projeto | Descrição | Tecnologias |
+|--------|------------|-------------|
+| **Portfólio Profissional** | Website responsivo, com foco em acessibilidade, tipografia e performance. | HTML, CSS, JS, TailwindCSS, Figma |
+| **Projeto Android v2** | Interface inspirada no sistema Android. Prática com Flexbox e boas práticas de CSS. | HTML, CSS, Flexbox |
+| **Menu SVG Parallax** | Menu lateral animado com SVG e efeito parallax. Responsivo e com botão hambúrguer animado. | HTML, CSS, JS, SVG |
 
 ---
 
@@ -45,31 +41,31 @@ Menu lateral com botão hambúrguer animado (que vira "X") e SVG com efeito para
 
 #### 🎨 Design
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" style="background:white; padding:4px; border-radius:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" title="Photoshop" style="background:white; padding:4px; border-radius:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" title="Illustrator" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 </p>
 
 #### 💻 Desenvolvimento
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" style="background:white; padding:4px; border-radius:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" style="background:white; padding:4px; border-radius:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 #### ⚙️ Ferramentas
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" style="background:white; padding:4px; border-radius:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" style="background:white; padding:4px; border-radius:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" style="background:white; padding:4px; border-radius:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="ZSH / Bash" style="background:white; padding:4px; border-radius:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="WSL / Linux" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/ZSH-%2300BFA5?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 #### 📚 Estudando Agora
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" style="background:white; padding:4px; border-radius:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -83,7 +79,9 @@ Menu lateral com botão hambúrguer animado (que vira "X") e SVG com efeito para
 
 ---
 
-### 🤝 Vamos Colaborar?
+### 📬 Vamos conversar?
+
+Sinta-se à vontade para me chamar para colaborações, freelas ou trocar ideias sobre design e front-end!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gen1nh/" target="_blank">
