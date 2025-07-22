@@ -20,52 +20,24 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou UI/UX Designer na Maratá (JAV), com foco em criar experiências acessíveis, intuitivas e modernas.  
-Atualmente transicionando para o desenvolvimento Front-end, com objetivo de unir design e código em soluções completas.
+Sou UI/UX Designer na Maratá (JAV), com foco em interfaces acessíveis, modernas e funcionais.  
+Atualmente, estou em transição para o front-end, estudando diariamente para unir design e desenvolvimento de forma completa.
 
-> Estudo programação todos os dias. Estou construindo um portfólio profissional focado em boas práticas, tipografia e acessibilidade.
+> Construindo um portfólio profissional com foco em responsividade, boas práticas e performance.
 
 ---
 
 ### 🚀 Projetos em Andamento
 
-<div align="center">
-  
-<table>
-  <tr>
-    <td width="300">
-      <h4 align="center">📁 Portfólio Profissional</h4>
-      <p align="center">
-        Website responsivo com foco em design consistente, performance e acessibilidade.<br>
-        <strong>Tecnologias:</strong><br>
-        HTML · CSS · JS · Tailwind · Figma
-      </p>
-    </td>
-    <td width="300">
-      <h4 align="center">📱 Projeto Android v2</h4>
-      <p align="center">
-        Interface inspirada no sistema Android, prática com Flexbox e layout responsivo.<br>
-        <strong>Tecnologias:</strong><br>
-        HTML · CSS · Flexbox
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="300">
-      <h4 align="center">🧭 Menu SVG Parallax</h4>
-      <p align="center">
-        Menu lateral com botão animado e efeito parallax em SVG. Design fluido e mobile-first.<br>
-        <strong>Tecnologias:</strong><br>
-        HTML · CSS · JS · SVG
-      </p>
-    </td>
-    <td width="300">
-      <!-- Espaço para mais projetos -->
-    </td>
-  </tr>
-</table>
+**Portfólio Profissional**  
+Site 100% responsivo, com foco em tipografia, acessibilidade, boas práticas e design consistente.  
+> Tecnologias: HTML, CSS, JavaScript, TailwindCSS, Figma
 
-</div>
+**Projeto Android v2**  
+Interface baseada em layouts do sistema Android, com foco em Flexbox e boas práticas de CSS.
+
+**Menu Animado com SVG Parallax**  
+Menu lateral com botão hambúrguer animado (que vira "X") e SVG com efeito parallax. Mobile-first.
 
 ---
 
