@@ -18,7 +18,7 @@
 ### 👨‍💻 Sobre Mim
 
 Sou Designer de Interfaces (UI/UX) na Maratá (JAV), com foco em criar experiências intuitivas, acessíveis e modernas.  
-Atualmente em transição para a área de desenvolvimento front-end, estou construindo soluções que combinam design e código.
+Atualmente em transição para a área de desenvolvimento web, estou construindo soluções que combinam design e código.
 
 > Estudo programação todos os dias e estou desenvolvendo um portfólio profissional que reflita minha visão estética, técnica e estratégica.
 
@@ -88,3 +88,4 @@ Sinta-se à vontade para me chamar para colaborações, freelas ou trocar ideias
     <img src="https://img.shields.io/badge/Enviar Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
