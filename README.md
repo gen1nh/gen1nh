@@ -1,5 +1,4 @@
-<h1 align="center"><img width="241" height="234" alt="image" src="https://github.com/user-attachments/assets/1ac4f08d-7c7e-45ef-ae9c-34a4e3ef9453" />
-</h1>
+<h1 align="center"><Geninho></Geninho></h1>
 
 <p align="center">
   Lagarto - SE · UI/UX Designer em transição para Front-end Developer · Estudante de Sistemas para Internet
