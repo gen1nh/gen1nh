@@ -8,10 +8,10 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email">
+  <a href="mailto:SEU-EMAIL-AQUI">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -25,9 +25,9 @@
 <hr/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=seu-usuario&theme=react&border_radius=10&count_private=true" alt="🔥 GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=react&border_radius=10&count_private=true" alt="📈 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seu-usuario&layout=compact&theme=react&border_radius=10&langs_count=8" alt="🔝 Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=gen1nh&theme=react&border_radius=10&count_private=true" alt="🔥 GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gen1nh&show_icons=true&theme=react&border_radius=10&count_private=true" alt="📈 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gen1nh&layout=compact&theme=react&border_radius=10&langs_count=8" alt="🔝 Top Languages" />
 </div>
 
 <hr/>
