@@ -2,7 +2,7 @@
 
 <div align="center">
  Atualmente trabalho no <strong>time de Comunicação e Produto da Maratá (JAV)</strong>, desenvolvendo soluções visuais e interfaces que unem <strong>funcionalidade</strong>, <strong>estética</strong> e <strong>experiência do usuário</strong>.<br>
- Meu foco é criar projetos que fortaleçam a identidade da marca e facilitem a vida dos usuários — tanto em plataformas digitais quanto em materiais gráficos.<br>
+ Meu foco é criar projetos que fortaleçam a identidade da marca e facilitem a vida dos usuários - tanto em plataformas digitais quanto em materiais gráficos.<br>
  📚 Estudando <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>PHP</strong> e <strong>React</strong> para complementar minhas habilidades de design.<br>
  💡 Apaixonado por <strong>UI/UX</strong>, <strong>tecnologia</strong> e <strong>ilustração</strong>.
 </div>
@@ -30,4 +30,5 @@
 </div>
 
 <hr/>
+
 
