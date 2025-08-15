@@ -1,10 +1,10 @@
-<h3 align="center">🎨 UI/UX Designer | 🎯 Front-end em formação | 💻 Designer Gráfico</h3>
+<h3 align="center">📱 Desenvolvedor Mobile (React Native) em formação | 🎨 UI/UX Designer | 💻 Designer Gráfico</h3>
 
 <div align="center">
- Atualmente trabalho no <strong>time de Comunicação e Produto da Maratá (JAV)</strong>, desenvolvendo soluções visuais e interfaces que unem <strong>funcionalidade</strong>, <strong>estética</strong> e <strong>experiência do usuário</strong>.<br>
- Meu foco é criar projetos que fortaleçam a identidade da marca e facilitem a vida dos usuários - tanto em plataformas digitais quanto em materiais gráficos.<br>
- 📚 Estudando <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>PHP</strong> e <strong>React</strong> para complementar minhas habilidades de design.<br>
- 💡 Apaixonado por <strong>UI/UX</strong>, <strong>tecnologia</strong> e <strong>ilustração</strong>.
+ Atualmente trabalho no <strong>time de Comunicação e Produto da Maratá (JAV)</strong>, criando interfaces e soluções visuais que unem <strong>funcionalidade</strong>, <strong>estética</strong> e <strong>experiência do usuário</strong>.<br>
+ Meu foco é desenvolver projetos que entreguem valor real ao usuário — de aplicativos mobile a plataformas digitais e materiais gráficos.<br>
+ 📚 Estudando <strong>React Native</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, além de conceitos de UI/UX e usabilidade para criar apps performáticos e acessíveis.<br>
+ 💡 Apaixonado por <strong>tecnologia</strong>, <strong>design</strong> e <strong>experiências digitais</strong>.
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 <hr/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,tailwind,figma,photoshop,illustrator,python,c,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,figma,photoshop,illustrator,python,git,github" />
 </div>
 
 <hr/>
@@ -30,5 +30,3 @@
 </div>
 
 <hr/>
-
-
