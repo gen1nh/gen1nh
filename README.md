@@ -26,15 +26,6 @@
   <img src="https://skillicons.dev/icons?i=figma,tailwind,react,css,html,javascript,typescript,photoshop,illustrator,git" />
 </div>
 
-<hr/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gen1nh&show_icons=true&theme=react&border_radius=10&count_private=true" alt="📈 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gen1nh&layout=compact&theme=react&border_radius=10&langs_count=8" alt="🔝 Top Languages" />
-</div>
-
-<hr/>
-
 
 
 
