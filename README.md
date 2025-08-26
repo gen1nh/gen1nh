@@ -1,4 +1,4 @@
-<h3 align="center">📱 Desenvolvedor Mobile (React Native) em formação | 🎨 UI/UX Designer | 💻 Designer Gráfico</h3>
+<h3 align="center"> Desenvolvedor Mobile (React Native) em formação <br> UI/UX Designer <br> Designer Gráfico</h3>
 
 <div align="center">
  Atualmente trabalho no <strong>time de Comunicação e Produto da Maratá (JAV)</strong>, criando interfaces <br> e soluções visuais que unem <strong>funcionalidade</strong>, <strong>estética</strong> e <strong>experiência do usuário</strong>.<br>
@@ -32,6 +32,7 @@
 </div>
 
 <hr/>
+
 
 
 
