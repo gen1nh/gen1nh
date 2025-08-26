@@ -21,7 +21,7 @@
 <hr/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,figma,photoshop,illustrator,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,css,html,vite,typescript,javascript,tailwind,figma,photoshop,illustrator,git,github" />
 </div>
 
 <hr/>
@@ -32,5 +32,6 @@
 </div>
 
 <hr/>
+
 
 
