@@ -1,6 +1,5 @@
 <h3 align="center">  
  UI/UX Designer <br>
- Designer Gráfico <br>
  Desenvolvedor Mobile (React Native) em formação</h3>
 
 <div align="center">
@@ -35,6 +34,7 @@
 </div>
 
 <hr/>
+
 
 
 
