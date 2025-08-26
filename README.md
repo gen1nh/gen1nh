@@ -3,7 +3,7 @@
  Desenvolvedor Mobile (React Native) em formação</h3>
 
 <div align="center">
- Atualmente trabalho no <strong>time de Comunicação e Produto da Maratá (JAV)</strong>, criando interfaces <br> e soluções visuais que unem <strong>funcionalidade</strong>, <strong>estética</strong> e <strong>experiência do usuário</strong>.<br>
+ Atualmente trabalho no <strong>time de Comunicação e Produto da Maratá (JAV)</strong>, <br> criando interfaces e soluções visuais que unem <strong>funcionalidade</strong>, <strong>estética</strong> e <strong>experiência do usuário</strong>.<br>
  Meu foco é desenvolver projetos que entreguem valor real ao usuário - de aplicativos mobile a plataformas digitais e materiais gráficos.<br>
  Estudando <strong>React Native</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, além de conceitos de UI/UX e usabilidade para criar apps performáticos e acessíveis.<br>
  Apaixonado por <strong>tecnologia</strong>, <strong>design</strong> e <strong>experiências digitais</strong>.
@@ -34,6 +34,7 @@
 </div>
 
 <hr/>
+
 
 
 
