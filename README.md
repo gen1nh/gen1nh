@@ -11,7 +11,7 @@
     Currently working at <strong>Maratá (JAV)</strong> on the <strong>Communication & Product team</strong>, <br/>
     creating interfaces and visual solutions that bring together <strong>functionality</strong>, <strong>aesthetics</strong>, 
     and <strong>user experience</strong>. <br/><br/>
-    Focused on developing projects that deliver <strong>real value</strong> to people — from mobile apps 
+    Focused on developing projects that deliver <strong>real value</strong> to people - from mobile apps 
     to digital platforms. <br/>
     Learning <strong>React Native</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, and mastering 
     <strong>UI/UX principles</strong> to build <strong>accessible</strong> and <strong>performant apps</strong>. <br/><br/>
@@ -37,3 +37,4 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,tailwind,react,css,html,javascript,typescript,photoshop,illustrator,git" />
 </div>
+
