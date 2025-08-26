@@ -1,36 +1,39 @@
-<h3 align="center">  
- UI/UX Designer <br>
- Desenvolvedor Mobile (React Native) em formação</h3>
+<h1 align="center">👋 Hey, I'm <strong>Geninho</strong></h1>
+
+<h3 align="center">
+  UI/UX Designer • Mobile Developer (React Native in progress)
+</h3>
+
+<br/>
 
 <div align="center">
- Atualmente trabalho no <strong>time de Comunicação e Produto da Maratá (JAV)</strong>, <br> criando interfaces e soluções visuais que unem <strong>funcionalidade</strong>, <strong>estética</strong> e <strong>experiência do usuário</strong>.<br>
- Meu foco é desenvolver projetos que entreguem valor real ao usuário - de aplicativos mobile a plataformas digitais.<br>
- Estudando <strong>React Native</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, além de conceitos de UI/UX e usabilidade para criar apps performáticos e acessíveis.<br>
- Apaixonado por <strong>tecnologia</strong>, <strong>design</strong> e <strong>experiências digitais</strong>.
+  <p>
+    Currently working at <strong>Maratá (JAV)</strong> on the <strong>Communication & Product team</strong>, <br/>
+    creating interfaces and visual solutions that bring together <strong>functionality</strong>, <strong>aesthetics</strong>, 
+    and <strong>user experience</strong>. <br/><br/>
+    Focused on developing projects that deliver <strong>real value</strong> to people — from mobile apps 
+    to digital platforms. <br/>
+    Learning <strong>React Native</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, and mastering 
+    <strong>UI/UX principles</strong> to build <strong>accessible</strong> and <strong>performant apps</strong>. <br/><br/>
+    Passionate about <strong>technology</strong>, <strong>design</strong>, and <strong>digital experiences</strong>.
+  </p>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gen1nh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:genisson465@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-<hr/>
+---
+
+<h3 align="center">⚡ Tech Stack</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,tailwind,react,css,html,javascript,typescript,photoshop,illustrator,git" />
 </div>
-
-
-
-
-
-
-
-
-
