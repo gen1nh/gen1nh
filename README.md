@@ -35,6 +35,7 @@
 <h3 align="center">⚡ Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,tailwind,react,css,html,javascript,typescript,photoshop,illustrator,git" />
+  <img src="https://skillicons.dev/icons?i=figma,tailwind,react,css,html,javascript,typescript,git,photoshop,illustrator" />
 </div>
+
 
