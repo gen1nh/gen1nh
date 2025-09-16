@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hey, I'm <strong>Geninho</strong></h1>
 
-<h3 align="center">
+<h3 align="start">
   UI/UX Designer • Mobile Developer (React Native in progress)
 </h3>
 
 <br/>
 
-<div align="center">
+<div align="start">
   <p>
     Currently working at <strong>Maratá (JAV)</strong> on the <strong>Communication & Product team</strong>, <br/>
     creating interfaces and visual solutions that bring together <strong>functionality</strong>, <strong>aesthetics</strong>, 
@@ -21,16 +21,16 @@
 
 <h3 align="center">Tech Stack</h3>
 
-<div align="center">
+<div align="start">
   <img src="https://skillicons.dev/icons?i=figma,tailwind,react,css,html,javascript,typescript,git,photoshop,illustrator"/>
 </div>
 
-
-  <h2>🐍 My Contributions 🐍</h2>
+<h3 align="center">🐍 My Contributions 🐍</h3>
   
-<div align="center">
+<div align="start">
 <img alt="snake eating my contributions" src="https://github.com/gen1nh/assets-readme/blob/main/github-contribution-grid-snake.svg" />
 </div>
+
 
 
 
