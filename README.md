@@ -10,9 +10,9 @@
   <p>
     Currently working at <strong>Maratá (JAV)</strong> on the <strong>Communication & Product team</strong>, <br/>
     creating interfaces and visual solutions that bring together <strong>functionality</strong>, <strong>aesthetics</strong>, 
-    and <strong>user experience</strong>. <br/><br/>
+    and <strong>user experience</strong>.
     Focused on developing projects that deliver <strong>real value</strong> to people - from mobile apps 
-    to digital platforms. <br/>
+    to digital platforms.
     Learning <strong>React Native</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, and mastering 
     <strong>UI/UX principles</strong> to build <strong>accessible</strong> and <strong>performant apps</strong>. <br/><br/>
     Passionate about <strong>technology</strong>, <strong>design</strong>, and <strong>digital experiences</strong>.
@@ -36,6 +36,7 @@
 <div>
 <img alt="snake eating my contributions" src="https://github.com/gen1nh/assets-readme/blob/main/github-contribution-grid-snake.svg" />
 </div>
+
 
 
 
