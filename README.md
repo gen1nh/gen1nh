@@ -11,20 +11,6 @@
 </p>
 
 <div align="center" style="border:1px dashed #888; padding:16px; margin:16px auto; max-width:900px;">
-  <h4>Tech Stack</h4>
-  <p>
-    <img src="https://skillicons.dev/icons?i=figma,tailwind,react,css,html,javascript,typescript,git,photoshop,illustrator" alt="tech icons"/>
-  </p>
-</div>
-
-<div align="center" style="border:1px dashed #888; padding:16px; margin:16px auto; max-width:900px;">
-  <h4>My Contributions</h4>
-  <p>
-    <img alt="contributions" src="https://raw.githubusercontent.com/gen1nh/assets-readme/main/github-contribution-grid-snake.svg" />
-  </p>
-</div>
-
-<div align="center" style="border:1px dashed #888; padding:16px; margin:16px auto; max-width:900px;">
   <h4>📫 Contacts</h4>
   <p>
     <a href="https://github.com/gen1nh" target="_blank">
@@ -38,3 +24,18 @@
     </a>
   </p>
 </div>
+
+<div align="center" style="border:1px dashed #888; padding:16px; margin:16px auto; max-width:900px;">
+  <h4>Tech Stack</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=figma,tailwind,react,css,html,javascript,typescript,git,photoshop,illustrator" alt="tech icons"/>
+  </p>
+</div>
+
+<div align="center" style="border:1px dashed #888; padding:16px; margin:16px auto; max-width:900px;">
+  <h4>My Contributions</h4>
+  <p>
+    <img alt="contributions" src="https://raw.githubusercontent.com/gen1nh/assets-readme/main/github-contribution-grid-snake.svg" />
+  </p>
+</div>
+
