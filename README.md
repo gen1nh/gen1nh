@@ -1,4 +1,4 @@
-<h1>👋 Hey, I'm <strong>Geninho</strong></h1>
+<h1>Hey, I'm <strong>Geninho</strong></h1>
 
 <h3>
   UI/UX Designer • Mobile Developer (React Native in progress)
@@ -20,16 +20,23 @@
 </div>
 
 <h3>tech stack</h3>
+
+<br/>
+
 <div>
 <img src="https://skillicons.dev/icons?i=figma,tailwind,react,css,html,javascript,typescript,git,photoshop,illustrator"/>
 </div>
 
-<hr>
+<br/>
 
 <h3>my contributions</h3>
+
+<br/>
+
 <div>
 <img alt="snake eating my contributions" src="https://github.com/gen1nh/assets-readme/blob/main/github-contribution-grid-snake.svg" />
 </div>
+
 
 
 
