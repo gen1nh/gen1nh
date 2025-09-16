@@ -19,17 +19,18 @@
   </p>
 </div>
 
-<h3>Tech Stack</h3>
-
+<h3>tech stack</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=figma,tailwind,react,css,html,javascript,typescript,git,photoshop,illustrator"/>
+<img src="https://skillicons.dev/icons?i=figma,tailwind,react,css,html,javascript,typescript,git,photoshop,illustrator"/>
 </div>
 
-<h3>My Contributions</h3>
-  
+<hr>
+
+<h3>my contributions</h3>
 <div>
 <img alt="snake eating my contributions" src="https://github.com/gen1nh/assets-readme/blob/main/github-contribution-grid-snake.svg" />
 </div>
+
 
 
 
