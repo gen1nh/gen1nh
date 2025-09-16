@@ -17,11 +17,15 @@
   </p>
 </div>
 
+<br>
+<br>
+
 <div align="center">
   <h4>My Contributions</h4>
   <p>
     <img alt="contributions" src="https://raw.githubusercontent.com/gen1nh/assets-readme/main/github-contribution-grid-snake.svg" />
   </p>
 </div>
+
 
 
