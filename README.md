@@ -19,20 +19,8 @@
   </p>
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gen1nh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:genisson465@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
 <h3 align="center">⚡ Tech Stack</h3>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,tailwind,react,css,html,javascript,typescript,git,photoshop,illustrator" />
@@ -41,12 +29,8 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-
- 
 <img alt="snake eating my contributions" src="https://github.com/gen1nh/assets-readme/blob/main/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
+
 
 
