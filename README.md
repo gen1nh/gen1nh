@@ -23,3 +23,18 @@
     <img alt="contributions" src="https://raw.githubusercontent.com/gen1nh/assets-readme/main/github-contribution-grid-snake.svg" />
   </p>
 </div>
+
+<div align="center" style="border:1px dashed #888; padding:16px; margin:16px auto; max-width:900px;">
+  <h4>📫 Contacts</h4>
+  <p>
+    <a href="https://github.com/gen1nh" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-d946ef?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+    </a>
+    <a href="https://www.linkedin.com/in/gen1nh" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-d946ef?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
+    <a href="mailto:seu-email@exemplo.com">
+      <img src="https://img.shields.io/badge/Email-d946ef?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+    </a>
+  </p>
+</div>
