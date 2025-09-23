@@ -22,7 +22,7 @@
 <div align="left">
   <h4>Tech Stack</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=figma,tailwind,react,css,html,javascript,typescript,git,photoshop,illustrator,python" alt="tech icons"/>
+    <img src="https://skillicons.dev/icons?i=figma,tailwind,react,css,html,javascript,typescript,git,photoshop,illustrator" alt="tech icons"/>
   </p>
 </div>
 
@@ -47,6 +47,7 @@
 </div>
 
 ###
+
 
 
 
