@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/noza-thinking-gif-15408758185148116006"/>
+<img align="right" height="150" src="noza-thinking.gif" alt="Pantera Rosa animada" />
 
 ###
 
@@ -47,6 +47,7 @@
 </div>
 
 ###
+
 
 
 
