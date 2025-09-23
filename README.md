@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://tenor.com/pt-BR/view/calentando-calorcito-pink-panter-pantera-rosa-gif-8762409839427069667)"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDR6MDcxd3Q3MzgyeXYxZWtlNWl6bTI2MmJzN21uczIwbXM3eDU5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZCmDhIFeF1s2c/giphy.gif"  />
 
 ###
 
@@ -47,6 +47,7 @@
 </div>
 
 ###
+
 
 
 
