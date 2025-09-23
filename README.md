@@ -3,9 +3,7 @@
 ###
 
 <p align="left">
-  <em>Currently working at <strong>Maratá (JAV)</strong> on the <strong>Communication & Product team</strong>,</em><br/>
-  creating interfaces that balance <strong>functionality</strong>, <strong>aesthetics</strong> and <strong>UX</strong>.<br/>
-  Learning <strong>React Native</strong>, <strong>JavaScript</strong> & <strong>TypeScript</strong>.
+  <em>Currently working at <strong>Maratá (JAV)</strong> on the <strong>Communication & Product team</strong>,</em> creating interfaces that balance <strong>functionality</strong>, <strong>aesthetics</strong> and <strong>UX</strong>. Learning <strong>React Native</strong>, <strong>JavaScript</strong> & <strong>TypeScript</strong>.
 </p>
 
 ###
@@ -51,3 +49,4 @@
 </div>
 
 ###
+
