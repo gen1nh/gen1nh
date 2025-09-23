@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="giphy.gif" alt="Pantera Rosa animada" />
+<img align="right" height="250" src="giphy.gif" alt="Pantera Rosa animada" />
 
 ###
 
@@ -47,6 +47,7 @@
 </div>
 
 ###
+
 
 
 
